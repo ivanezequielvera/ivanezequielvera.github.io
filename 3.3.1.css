@@ -1,0 +1,53 @@
+body{
+    background-image: url(background.jpg);
+}
+
+.header {
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    position: relative;
+    top: 30px;
+}
+
+.paragraph{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    position:relative;
+    top: 10px;
+    background-color: rgba(255, 255, 255, 0.281);
+}
+
+#languages{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 35px;
+    text-align: center;
+}
+
+.lenguajes{
+    width: 150px;
+    position: relative;
+    top: 20px;
+    left: 450px;
+}
+
+.imagen{
+    width: 35px;
+    height: auto;
+    position: relative;
+    top: 115px;
+    left: 617px;
+}
+#contact{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.699);
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 7px;
+}
